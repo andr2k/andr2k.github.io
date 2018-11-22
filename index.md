@@ -1,3 +1,8 @@
+---
+title: Andriy Kravchenko
+layout: default
+---
+
 Andriy Kravchenko
 =================
 ![Image](avatar-london.jpg "Andriy Kravchenko")
