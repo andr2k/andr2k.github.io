@@ -13,7 +13,7 @@ Would you like to get in touch?
 * [Email][email]
 * [CV][CV]
 * [Linkedin][linkedin]
-* [Facebook][facebook] | 
+* [Facebook][facebook]
 * [Instagram][instagram]
 
 
