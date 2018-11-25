@@ -9,13 +9,11 @@ Andriy Kravchenko
 
 Would you like to get in touch?
 
-
 * [Email][email]
 * [CV][CV]
 * [Linkedin][linkedin]
 * [Facebook][facebook]
 * [Instagram][instagram]
-
 
 [email]: mailto:andriy@kravchenko.cc
 [linkedin]: http://ua.linkedin.com/in/andriykravchenko
