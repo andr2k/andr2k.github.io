@@ -5,7 +5,11 @@ layout: default
 
 Andriy Kravchenko
 =================
-![Image](avatar-london.jpg "Andriy Kravchenko")
+
+{% for post in site.posts %}
+[{{ post.title }}]({{ post.url }})
+==
+{% endfor %}
 
 Would you like to get in touch?
 
