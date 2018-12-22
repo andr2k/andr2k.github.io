@@ -9,7 +9,7 @@ title:            Andriy Kravchenko's blog
 tagline:          'Senior Web Application Developer'
 description:      ''
 url:              https://andriy.kravchenko.cc
-baseurl:
+baseurl:          '/'
 
 author:
   name:           'Andriy Kravchenko'
