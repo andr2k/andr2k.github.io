@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Andriy Kravchenko's blog
+tagline:          'Senior Web Application Developer'
+description:      ''
+url:              https://andriy.kravchenko.cc
+baseurl:
+
+author:
+  name:           'Andriy Kravchenko'
+  url:            https://andriy.kravchenko.cc/
+
+paginate:         5
+plugins: [jekyll-paginate]
