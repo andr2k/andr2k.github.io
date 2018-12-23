@@ -46,6 +46,22 @@ html {
 }
 
 
+.latest-posts {
+
+}
+
+.latest-posts__header {
+  color: darkgray;
+}
+
+.latest-posts__item {
+
+}
+
+.latest-posts__item__date {
+  color: #9a9a9a;
+}
+
 /*
  * Sidebar
  *
